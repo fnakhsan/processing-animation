@@ -57,6 +57,7 @@ void pan() {
   background(#000000);
   
   //name();
+  //translate(x,y);
   
   //F
   noStroke();
